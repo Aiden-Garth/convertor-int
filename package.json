@@ -1,0 +1,23 @@
+{
+  "name": "convertor-int",
+  "version": "1.0.0",
+  "description": "A convertor that allows you to change integers to and from base 10 to any base between 2 and 32",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiden-Garth/convertor-int.git"
+  },
+  "keywords": [
+    "converter",
+    "truecoderltd"
+  ],
+  "author": "Aiden Garth <coder.garth.aiden@gmail.com> (https://github.com/Aiden-Garth)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aiden-Garth/convertor-int/issues"
+  },
+  "homepage": "https://github.com/Aiden-Garth/convertor-int#readme"
+}
